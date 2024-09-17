@@ -10,7 +10,6 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I'm a student at the **Faculty of Commerce, Benha University**.
 - 💻 Backend developer specializing in **Node.js**.
 - 🎓 Graduated from **Route Academy** with a diploma in **Backend Development** using Node.js.
 - 🛠️ Experienced with **Express.js**, **MongoDB**, **MySQL**, **Sequelize**, **Mongoose**, and **REST APIs**.
